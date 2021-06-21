@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "BattleTankEditor Editor Mac Development (BattleTank)",
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compileCommands": "/Users/neilacantilado/Documents/Unreal Projects/04_BattleTank/BattleTank/.vscode/compileCommands_BattleTank.json",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Mac",
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compileCommands": "/Users/neilacantilado/Documents/Unreal Projects/04_BattleTank/BattleTank/.vscode/compileCommands_Default.json",
+            "cStandard": "c11",
+            "cppStandard": "c++98"
+        }
+    ],
+    "version": 4
+}
