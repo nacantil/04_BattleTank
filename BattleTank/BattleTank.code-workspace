@@ -15,8 +15,7 @@
 			"${default}",
 			"/Users/neilacantilado/Documents/Unreal Projects/04_BattleTank/BattleTank/Intermediate/Build/Mac/x86_64/UE4Editor/Development/BattleTank/Definitions.BattleTank.h",
 			"/Users/neilacantilado/Documents/Unreal Projects/04_BattleTank/BattleTank/Intermediate/Build/Mac/x86_64/BattleTankEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h"
-		],
-		"C_Cpp.intelliSenseEngine": "Tag Parser"
+		]
 	},
 	"extensions": {
 		"recommendations": [
