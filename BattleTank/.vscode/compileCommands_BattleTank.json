@@ -43,5 +43,15 @@
         "file": "/Users/neilacantilado/Documents/Unreal Projects/04_BattleTank/BattleTank/Source/BattleTank/Private/Tank.cpp",
         "command": "cl.exe @\"/Users/neilacantilado/Documents/Unreal Projects/04_BattleTank/BattleTank/.vscode/compileCommands_BattleTank/BattleTank.171.rsp\"",
         "directory": "/Users/Shared/Epic Games/UE_4.26/Engine/Source"
+    },
+    {
+        "file": "/Users/neilacantilado/Documents/Unreal Projects/04_BattleTank/BattleTank/Source/BattleTank/Private/TankAIController.cpp",
+        "command": "cl.exe @\"/Users/neilacantilado/Documents/Unreal Projects/04_BattleTank/BattleTank/.vscode/compileCommands_BattleTank/BattleTank.171.rsp\"",
+        "directory": "/Users/Shared/Epic Games/UE_4.26/Engine/Source"
+    },
+    {
+        "file": "/Users/neilacantilado/Documents/Unreal Projects/04_BattleTank/BattleTank/Source/BattleTank/Public/TankAIController.h",
+        "command": "cl.exe @\"/Users/neilacantilado/Documents/Unreal Projects/04_BattleTank/BattleTank/.vscode/compileCommands_BattleTank/BattleTank.171.rsp\"",
+        "directory": "/Users/Shared/Epic Games/UE_4.26/Engine/Source"
     }
 ]
